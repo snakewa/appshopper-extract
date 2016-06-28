@@ -1,0 +1,20 @@
+{
+  "name": "appshopper-extract",
+  "version": "0.1.0",
+  "description": "use x-ray to extract appshopper's webpage",
+  "main": "appshopper.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "x-ray": "^2.3.0"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "appshopper",
+    "x-ray"
+  ],
+  "author": "Tim Ma",
+  "license": "ISC"
+}
