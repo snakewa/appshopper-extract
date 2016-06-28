@@ -1,5 +1,5 @@
 # appshopper-extract
-Use x-ray to extract appshopper's webpage. Very useful you want to keep track of the update of an app or the price change history.
+Use [x-ray](https://github.com/lapwinglabs/x-ray) to extract appshopper's webpage. Very useful you want to keep track of the update of an app or the price change history.
 
 ## Installation
 ```  
@@ -13,7 +13,7 @@ nam start
 Default PORT is 8081
 
 ## Try it
-and go to check out http://localhost:8081/query/facebook . You should see a JSON like:
+and go to check out [http://localhost:8081/query/facebook](http://localhost:8081/query/facebook) . You should see a JSON like:
 ```
 [
   {
@@ -29,7 +29,7 @@ and go to check out http://localhost:8081/query/facebook . You should see a JSON
 ]  
 ```
 
-For the app's detail information , go to check out http://localhost:8081/detail/social-networking/facebook
+For the app's detail information , go to check out [http://localhost:8081/detail/social-networking/facebook](http://localhost:8081/detail/social-networking/facebook)
 
 You should see a JSON like:
 ```
